@@ -1,0 +1,1 @@
+Using fetch get data from API and display the flag and country details in the card
